@@ -1,0 +1,6 @@
+denial_code,denial_reason,category
+D001,Missing documentation,Documentation
+D002,Invalid service code,Coding
+D003,Duplicate claim,Billing
+D004,Eligibility issue,Eligibility
+D005,Missing authorization,Authorization

@@ -1,0 +1,101 @@
+provider_id,specialty,hospital_id
+PR001,Cardiology,H004
+PR002,Orthopedics,H003
+PR003,Cardiology,H002
+PR004,Orthopedics,H003
+PR005,Emergency,H001
+PR006,Cardiology,H001
+PR007,Oncology,H004
+PR008,Family Medicine,H005
+PR009,Family Medicine,H003
+PR010,Orthopedics,H005
+PR011,Oncology,H004
+PR012,Cardiology,H001
+PR013,Oncology,H005
+PR014,Oncology,H005
+PR015,Cardiology,H001
+PR016,Emergency,H003
+PR017,Oncology,H001
+PR018,Oncology,H005
+PR019,Emergency,H003
+PR020,Oncology,H003
+PR021,Oncology,H001
+PR022,Oncology,H005
+PR023,Family Medicine,H004
+PR024,Neurology,H005
+PR025,Emergency,H002
+PR026,Oncology,H004
+PR027,Family Medicine,H003
+PR028,Emergency,H004
+PR029,Orthopedics,H003
+PR030,Orthopedics,H003
+PR031,Oncology,H004
+PR032,Family Medicine,H003
+PR033,Family Medicine,H003
+PR034,Emergency,H002
+PR035,Emergency,H005
+PR036,Family Medicine,H005
+PR037,Emergency,H002
+PR038,Family Medicine,H004
+PR039,Neurology,H001
+PR040,Family Medicine,H001
+PR041,Orthopedics,H001
+PR042,Emergency,H002
+PR043,Family Medicine,H002
+PR044,Family Medicine,H003
+PR045,Emergency,H001
+PR046,Neurology,H004
+PR047,Neurology,H004
+PR048,Emergency,H001
+PR049,Cardiology,H001
+PR050,Emergency,H001
+PR051,Emergency,H002
+PR052,Neurology,H002
+PR053,Neurology,H002
+PR054,Emergency,H005
+PR055,Emergency,H004
+PR056,Emergency,H004
+PR057,Neurology,H003
+PR058,Emergency,H002
+PR059,Emergency,H005
+PR060,Oncology,H005
+PR061,Cardiology,H004
+PR062,Orthopedics,H002
+PR063,Cardiology,H003
+PR064,Oncology,H002
+PR065,Orthopedics,H001
+PR066,Emergency,H002
+PR067,Oncology,H001
+PR068,Emergency,H001
+PR069,Neurology,H003
+PR070,Family Medicine,H004
+PR071,Oncology,H002
+PR072,Neurology,H001
+PR073,Oncology,H002
+PR074,Oncology,H004
+PR075,Neurology,H004
+PR076,Orthopedics,H005
+PR077,Cardiology,H004
+PR078,Emergency,H003
+PR079,Oncology,H001
+PR080,Emergency,H005
+PR081,Family Medicine,H003
+PR082,Neurology,H002
+PR083,Emergency,H001
+PR084,Neurology,H004
+PR085,Emergency,H001
+PR086,Cardiology,H002
+PR087,Cardiology,H005
+PR088,Cardiology,H005
+PR089,Cardiology,H005
+PR090,Cardiology,H004
+PR091,Cardiology,H003
+PR092,Neurology,H003
+PR093,Oncology,H001
+PR094,Emergency,H004
+PR095,Cardiology,H005
+PR096,Neurology,H005
+PR097,Neurology,H002
+PR098,Neurology,H002
+PR099,Oncology,H005
+PR100,Emergency,H005

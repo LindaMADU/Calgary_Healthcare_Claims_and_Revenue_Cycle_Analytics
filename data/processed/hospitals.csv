@@ -1,0 +1,6 @@
+hospital_id,hospital_name,facility_type
+H001,Calgary Central Hospital,Acute Care
+H002,Calgary North Medical Centre,Acute Care
+H003,Calgary South Hospital,Acute Care
+H004,Calgary Community Care Centre,Community
+H005,Calgary Specialty Centre,Specialty
