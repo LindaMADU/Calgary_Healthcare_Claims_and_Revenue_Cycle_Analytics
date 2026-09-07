@@ -74,7 +74,7 @@ Raw Claims Data → Python Cleaning → SQL Database → Power BI Dashboard → 
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Preview](./images/dashboard_overview.png)
+"C:\Users\Lilian\Downloads\Calgary_Healthcare_Claims_and_Revenue (1).pbix"
 
 **Key Visualizations:**
 - Claims volume and denial rate trends
@@ -134,21 +134,9 @@ Calgary_Healthcare_Claims_and_Revenue_Cycle_Analytics/
 
 ---
 
-## 🔗 Quick Links
-
-### [Python Data Cleaning](#)
-Scripts for data validation, transformation, and quality assurance
-
-### [SQL Queries](#)
-Database schema, aggregations, and KPI calculations
-
----
-
-## 📝 License
-[Specify your license here]
 
 ## 👤 Author
-[Your Name / Linda Madu]
+[Linda M-Okoronkwo / Linda Madu]
 
 ---
 
