@@ -74,7 +74,8 @@ Raw Claims Data → Python Cleaning → SQL Database → Power BI Dashboard → 
 
 ## 📊 Power BI Dashboard
 
-"C:\Users\Lilian\Downloads\Calgary_Healthcare_Claims_and_Revenue (1).pbix"
+<img width="1268" height="720" alt="Calgary_healthcare_claims_and_revenue_pbix_snapshot" src="https://github.com/user-attachments/assets/535b5295-876b-4f9f-9647-e2c088ec4303" />
+
 
 **Key Visualizations:**
 - Claims volume and denial rate trends
